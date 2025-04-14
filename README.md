@@ -66,9 +66,23 @@ Bienvenue sur mon espace dédié au développement d'interfaces modernes et perf
 
 ## 📈 Mes Statistiques Frontend
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Fall-Awa&layout=compact&theme=vue&hide=php,java,python)](https://github.com/Fall-Awa)
-[![Skill Icons](https://skillicons.dev/icons?i=js,ts,react,next,tailwind,sass,figma)](https://skillicons.dev)
+### 🎯 Activité de Codage
+[![Statistiques GitHub](https://github-readme-stats.vercel.app/api?username=USERNAME&show_icons=true&theme=radical)](https://github.com/anuraghazra/github-readme-stats)
+[![Streak](https://streak-stats.demolab.com?user=USERNAME&theme=dark)](https://git.io/streak-stats)
 
+### 🌐 Technologies Frontend
+[![HTML](https://img.shields.io/badge/HTML5-Expert-E34F26?logo=html5)](https://developer.mozilla.org/fr/docs/Web/HTML)
+[![CSS](https://img.shields.io/badge/CSS3-Expert-1572B6?logo=css3)](https://developer.mozilla.org/fr/docs/Web/CSS)
+[![JavaScript](https://img.shields.io/badge/JavaScript-Avancé-F7DF1E?logo=javascript)](https://developer.mozilla.org/fr/docs/Web/JavaScript)
+[![Angular](https://img.shields.io/badge/Angular-Intermediaire-DD0031?logo=angular)](https://angular.io/)
+
+### 📦 Outils & Workflow
+[![Webpack](https://img.shields.io/badge/Webpack-4.0-8DD6F9?logo=webpack)](https://webpack.js.org/)
+[![NPM](https://img.shields.io/badge/NPM-Expert-CB3837?logo=npm)](https://www.npmjs.com/)
+[![Figma](https://img.shields.io/badge/Figma-Designer-F24E1E?logo=figma)](https://www.figma.com/)
+
+### 📊 Usage des Langages
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=USERNAME&layout=compact&theme=vision-friendly-dark)](https://github.com/anuraghazra/github-readme-stats)
 ---
 
 ## 🎨 Portfolio & Contact
