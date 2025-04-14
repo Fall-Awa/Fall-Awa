@@ -1,47 +1,10 @@
 # Bonjour, je suis Fall-Awa 👋
 
-🎨 **Développeur Frontend Créatif** | ✨ Créateur d'UI Dynamiques | 🚀 À la Découverte des Bonnes Pratiques
+🎨**Développeur Frontend Créatif** | ✨ Créateur d'UI Dynamiques | 🚀 À la Découverte des Bonnes Pratiques
 
-Bienvenue sur mon espace dédié au développement d'interfaces modernes et performantes !
 
 ---
 
-## 🛠 Stack Technique Frontend
-
-**Langages & Technologies**  
-[![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?logo=javascript&logoColor=black)](https://developer.mozilla.org/en-US/docs/Web/JavaScript)
-[![TypeScript](https://img.shields.io/badge/-TypeScript-3178C6?logo=typescript&logoColor=white)](https://www.typescriptlang.org)
-[![HTML5](https://img.shields.io/badge/-HTML5-E34F26?logo=html5&logoColor=white)](https://developer.mozilla.org/en-US/docs/Web/HTML)
-[![CSS3](https://img.shields.io/badge/-CSS3-1572B6?logo=css3&logoColor=white)](https://developer.mozilla.org/en-US/docs/Web/CSS)
-
-**Outils & Plateformes**  
-[![Git](https://img.shields.io/badge/-Git-F05032?logo=git&logoColor=white)](https://git-scm.com)
-[![GitHub](https://img.shields.io/badge/-GitHub-181717?logo=github&logoColor=white)](https://github.com)
-[![PowerPoint](https://img.shields.io/badge/-PowerPoint-B7472A?logo=microsoft-powerpoint&logoColor=white)](https://www.microsoft.com/powerpoint)
-
-**Frameworks**  
-[![Angular](https://img.shields.io/badge/-Angular-DD0031?logo=angular&logoColor=white)](https://angular.io)
-![React](https://img.shields.io/badge/-React-61DAFB?logo=react&logoColor=black)
-![Redux](https://img.shields.io/badge/-Redux-764ABC?logo=redux&logoColor=white)
-
-**Compétences**  
-[![Design](https://img.shields.io/badge/-Design-FF6F61?logo=adobe-creative-cloud&logoColor=white)](https://www.adobe.com/creativecloud.html)
-[![Technical Writing](https://img.shields.io/badge/-Technical%20Writing-0076D6?logo=book&logoColor=white)](https://www.writethedocs.org)
-
-
-
-**Mobile**  
-![React Native](https://img.shields.io/badge/-React_Native-61DAFB?logo=react&logoColor=black)
-
-
-
-
-**Styling**  
-![Tailwind CSS](https://img.shields.io/badge/-Tailwind_CSS-06B6D4?logo=tailwind-css&logoColor=white)
-![Bootstrap](https://img.shields.io/badge/-Bootstrap-7952B3?logo=bootstrap&logoColor=white)
-![Framer Motion](https://img.shields.io/badge/-Framer_Motion-0055FF?logo=framer&logoColor=white)
-
----
 
 ## 🎯 Projets Frontend
 
@@ -76,10 +39,24 @@ Bienvenue sur mon espace dédié au développement d'interfaces modernes et perf
 [![JavaScript](https://img.shields.io/badge/JavaScript-Avancé-F7DF1E?logo=javascript)](https://developer.mozilla.org/fr/docs/Web/JavaScript)
 [![Angular](https://img.shields.io/badge/Angular-Intermediaire-DD0031?logo=angular)](https://angular.io/)
 
-### 📦 Outils & Workflow
-[![Webpack](https://img.shields.io/badge/Webpack-4.0-8DD6F9?logo=webpack)](https://webpack.js.org/)
-[![NPM](https://img.shields.io/badge/NPM-Expert-CB3837?logo=npm)](https://www.npmjs.com/)
-[![Figma](https://img.shields.io/badge/Figma-Designer-F24E1E?logo=figma)](https://www.figma.com/)
+![React](https://img.shields.io/badge/-React-61DAFB?logo=react&logoColor=black)
+![Redux](https://img.shields.io/badge/-Redux-764ABC?logo=redux&logoColor=white)
+
+**Compétences**  
+[![Design](https://img.shields.io/badge/-Design-FF6F61?logo=adobe-creative-cloud&logoColor=white)](https://www.adobe.com/creativecloud.html)
+[![Technical Writing](https://img.shields.io/badge/-Technical%20Writing-0076D6?logo=book&logoColor=white)](https://www.writethedocs.org)
+
+
+
+### 📦 Outils & Plateformes**  
+[![Git](https://img.shields.io/badge/-Git-F05032?logo=git&logoColor=white)](https://git-scm.com)
+[![GitHub](https://img.shields.io/badge/-GitHub-181717?logo=github&logoColor=white)](https://github.com)
+[![PowerPoint](https://img.shields.io/badge/-PowerPoint-B7472A?logo=microsoft-powerpoint&logoColor=white)](https://www.microsoft.com/powerpoint)
+
+**Styling**  
+![Tailwind CSS](https://img.shields.io/badge/-Tailwind_CSS-06B6D4?logo=tailwind-css&logoColor=white)
+![Bootstrap](https://img.shields.io/badge/-Bootstrap-7952B3?logo=bootstrap&logoColor=white)
+![Framer Motion](https://img.shields.io/badge/-Framer_Motion-0055FF?logo=framer&logoColor=white)
 
 ### 📊 Usage des Langages
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=USERNAME&layout=compact&theme=vision-friendly-dark)](https://github.com/anuraghazra/github-readme-stats)
