@@ -1,6 +1,6 @@
 # Bonjour, je suis Fall-Awa 👋
 
-🎨 **Développeur Frontend Créatif** | ✨ Expert en Expérience Utilisateur | 🚀 Next.js & React Enthousiaste
+🎨 **Développeur Frontend Créatif** | ✨ Créateur d'UI Dynamiques | 🚀 À la Découverte des Bonnes Pratiques
 
 Bienvenue sur mon espace dédié au développement d'interfaces modernes et performantes !
 
@@ -8,11 +8,25 @@ Bienvenue sur mon espace dédié au développement d'interfaces modernes et perf
 
 ## 🛠 Stack Technique Frontend
 
-**Langages & Frameworks**  
+## 🛠 Stack Technique
+
+**Langages**  
+![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?logo=javascript&logoColor=black)
 ![TypeScript](https://img.shields.io/badge/-TypeScript-3178C6?logo=typescript&logoColor=white)
+
+**Frontend**  
 ![React](https://img.shields.io/badge/-React-61DAFB?logo=react&logoColor=black)
-![Next.js](https://img.shields.io/badge/-Next.js-000000?logo=next.js&logoColor=white)
-![Vue.js](https://img.shields.io/badge/-Vue.js-4FC08D?logo=vue.js&logoColor=white)
+![Redux](https://img.shields.io/badge/-Redux-764ABC?logo=redux&logoColor=white)
+
+**Mobile**  
+![React Native](https://img.shields.io/badge/-React_Native-61DAFB?logo=react&logoColor=black)
+
+
+
+**Outils**  
+![Webpack](https://img.shields.io/badge/-Webpack-8DD6F9?logo=webpack&logoColor=black)
+![Jest](https://img.shields.io/badge/-Jest-C21325?logo=jest&logoColor=white)
+![Sass](https://img.shields.io/badge/-Sass-CC6699?logo=sass&logoColor=white)
 
 **Styling**  
 ![Tailwind CSS](https://img.shields.io/badge/-Tailwind_CSS-06B6D4?logo=tailwind-css&logoColor=white)
