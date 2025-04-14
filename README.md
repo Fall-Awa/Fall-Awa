@@ -29,9 +29,6 @@
 
 ## 📈 Mes Statistiques Frontend
 
-### 🎯 Activité de Codage
-[![Statistiques GitHub](https://github-readme-stats.vercel.app/api?username=USERNAME&show_icons=true&theme=radical)](https://github.com/anuraghazra/github-readme-stats)
-[![Streak](https://streak-stats.demolab.com?user=USERNAME&theme=dark)](https://git.io/streak-stats)
 
 ### 🌐 Technologies Frontend
 [![HTML](https://img.shields.io/badge/HTML5-Expert-E34F26?logo=html5)](https://developer.mozilla.org/fr/docs/Web/HTML)
@@ -42,10 +39,7 @@
 ![React](https://img.shields.io/badge/-React-61DAFB?logo=react&logoColor=black)
 ![Redux](https://img.shields.io/badge/-Redux-764ABC?logo=redux&logoColor=white)
 
-**Compétences**  
-[![Design](https://img.shields.io/badge/-Design-FF6F61?logo=adobe-creative-cloud&logoColor=white)](https://www.adobe.com/creativecloud.html)
-[![Technical Writing](https://img.shields.io/badge/-Technical%20Writing-0076D6?logo=book&logoColor=white)](https://www.writethedocs.org)
-[![PowerPoint](https://img.shields.io/badge/-PowerPoint-B7472A?logo=microsoft-powerpoint&logoColor=white)](https://www.microsoft.com/powerpoint)
+
 
 
 
@@ -54,9 +48,9 @@
 [![GitHub](https://img.shields.io/badge/-GitHub-181717?logo=github&logoColor=white)](https://github.com)
 
 **Styling**  
-![Tailwind CSS](https://img.shields.io/badge/-Tailwind_CSS-06B6D4?logo=tailwind-css&logoColor=white)
-![Bootstrap](https://img.shields.io/badge/-Bootstrap-7952B3?logo=bootstrap&logoColor=white)
-![Framer Motion](https://img.shields.io/badge/-Framer_Motion-0055FF?logo=framer&logoColor=white)
+🌀 ![Tailwind CSS](https://img.shields.io/badge/-Tailwind_CSS-06B6D4?logo=tailwind-css&logoColor=white)  
+🚀 ![Bootstrap](https://img.shields.io/badge/-Bootstrap-7952B3?logo=bootstrap&logoColor=white)  
+✨ ![Framer Motion](https://img.shields.io/badge/-Framer_Motion-0055FF?logo=framer&logoColor=white) 
 
 ### 📊 Usage des Langages
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=USERNAME&layout=compact&theme=vision-friendly-dark)](https://github.com/anuraghazra/github-readme-stats)
