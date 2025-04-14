@@ -45,13 +45,13 @@
 **Compétences**  
 [![Design](https://img.shields.io/badge/-Design-FF6F61?logo=adobe-creative-cloud&logoColor=white)](https://www.adobe.com/creativecloud.html)
 [![Technical Writing](https://img.shields.io/badge/-Technical%20Writing-0076D6?logo=book&logoColor=white)](https://www.writethedocs.org)
+[![PowerPoint](https://img.shields.io/badge/-PowerPoint-B7472A?logo=microsoft-powerpoint&logoColor=white)](https://www.microsoft.com/powerpoint)
 
 
 
 ### 📦 Outils & Plateformes**  
 [![Git](https://img.shields.io/badge/-Git-F05032?logo=git&logoColor=white)](https://git-scm.com)
 [![GitHub](https://img.shields.io/badge/-GitHub-181717?logo=github&logoColor=white)](https://github.com)
-[![PowerPoint](https://img.shields.io/badge/-PowerPoint-B7472A?logo=microsoft-powerpoint&logoColor=white)](https://www.microsoft.com/powerpoint)
 
 **Styling**  
 ![Tailwind CSS](https://img.shields.io/badge/-Tailwind_CSS-06B6D4?logo=tailwind-css&logoColor=white)
