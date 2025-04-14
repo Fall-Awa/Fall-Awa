@@ -63,8 +63,7 @@
 ## 🎨 Portfolio & Contact
 
 [![Portfolio](https://img.shields.io/badge/🌐_Portfolio-FF4088?style=for-the-badge)](https://votre-portfolio.com)
-[![CodePen](https://img.shields.io/badge/-CodePen-000000?logo=codepen&logoColor=white)](https://codepen.io/votre-profil)
-[![LinkedIn](https://img.shields.io/badge/-LinkedIn-0A66C2?logo=linkedin&logoColor=white)](https://linkedin.com/in/votre-profil)
+[![LinkedIn](https://img.shields.io/badge/-LinkedIn-0A66C2?logo=linkedin&logoColor=white)](https://linkedin.com/in/haowa-fall-85)
 
 ---
 
