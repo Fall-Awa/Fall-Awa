@@ -12,6 +12,17 @@ Bienvenue sur mon espace dédié au développement d'interfaces modernes et perf
 ![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?logo=javascript&logoColor=black)
 ![TypeScript](https://img.shields.io/badge/-TypeScript-3178C6?logo=typescript&logoColor=white)
 
+JavaScript
+TypeScript
+HTML5
+CSS3
+Git
+GitHub
+Angular
+PowerPoint
+Design
+Technical Writing
+
 **Frontend**  
 ![React](https://img.shields.io/badge/-React-61DAFB?logo=react&logoColor=black)
 ![Redux](https://img.shields.io/badge/-Redux-764ABC?logo=redux&logoColor=white)
