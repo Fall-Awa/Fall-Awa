@@ -3,36 +3,6 @@
 🎨**Développeur Frontend Créatif** | ✨ Créateur d'UI Dynamiques | 🚀 À la Découverte des Bonnes Pratiques
 
 
----
-
-
-## 🎯 Projets Frontend
-
-### [Business Banking](https://lien-projet.com)  
-> **Hub financier unifié pour commerçants mauritaniens**  
-
-🛠️ **Tech Stack**  
-[![React](https://img.shields.io/badge/-React-61DAFB?logo=react&logoColor=white)](https://react.dev)
-[![Tailwind CSS](https://img.shields.io/badge/-Tailwind%20CSS-06B6D4?logo=tailwind-css&logoColor=white)](https://tailwindcss.com)
-[![i18next](https://img.shields.io/badge/-i18next-26A69A?logo=icloud&logoColor=white)](https://www.i18next.com)
-[![Django](https://img.shields.io/badge/-Django-092E20?logo=django&logoColor=white)](https://www.djangoproject.com)
-[![Django REST](https://img.shields.io/badge/-Django%20REST-FF1709?logo=django&logoColor=white)](https://www.django-rest-framework.org)
-
-✨ **Fonctionnalités clés** :  
-- Intégration multi-portefeuilles (Sedad/BimBank/ECash)  
-- Gestion transactionnelle centralisée (paiements/remboursements/retraits)  
-- Génération de codes QR et suivi budgétaire simplifié  
-### [SKincare E-Commerce](https://lien-projet.com)  
-![React](https://img.shields.io/badge/-React-61DAFB?logo=react&logoColor=black) 
-![WhatsApp](https://img.shields.io/badge/-WhatsApp-25D366?logo=whatsapp&logoColor=white) 
-![Responsive](https://img.shields.io/badge/-Responsive-3DDC84?logo=web-components&logoColor=white)
-
-> Plateforme connectée pour démocratiser les soins visuels  
-✨ **Flow utilisateur** :  
-1. Sélection des produits → Panier contextuel  
-2. Génération automatique du message WhatsApp  
-3. Validation finale via discussion directe avec le vendeur  
----
 
 ## 📈 Mes Statistiques Frontend
 
