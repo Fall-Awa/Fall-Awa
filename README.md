@@ -21,20 +21,11 @@ Bienvenue sur mon espace dédié au développement d'interfaces modernes et perf
 
 
 
-**Outils**  
-![Webpack](https://img.shields.io/badge/-Webpack-8DD6F9?logo=webpack&logoColor=black)
-![Jest](https://img.shields.io/badge/-Jest-C21325?logo=jest&logoColor=white)
-![Sass](https://img.shields.io/badge/-Sass-CC6699?logo=sass&logoColor=white)
 
 **Styling**  
 ![Tailwind CSS](https://img.shields.io/badge/-Tailwind_CSS-06B6D4?logo=tailwind-css&logoColor=white)
-![Sass](https://img.shields.io/badge/-Sass-CC6699?logo=sass&logoColor=white)
+![Bootstrap](https://img.shields.io/badge/-Bootstrap-7952B3?logo=bootstrap&logoColor=white)
 ![Framer Motion](https://img.shields.io/badge/-Framer_Motion-0055FF?logo=framer&logoColor=white)
-
-**Outils**  
-![Storybook](https://img.shields.io/badge/-Storybook-FF4785?logo=storybook&logoColor=white)
-![Webpack](https://img.shields.io/badge/-Webpack-8DD6F9?logo=webpack&logoColor=black)
-![Jest](https://img.shields.io/badge/-Jest-C21325?logo=jest&logoColor=white)
 
 ---
 
