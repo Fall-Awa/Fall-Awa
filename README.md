@@ -76,5 +76,4 @@ Bienvenue sur mon espace dédié au développement d'interfaces modernes et perf
 
 ## 💡 En ce moment...
 - 🔭 Je travaille sur une librairie UI open source en React
-- 🌱 J'apprends Astro et l'optimisation des performances web
-- 💬 Parlons accessibilité numérique (a11y) et Web Vitals !
+- 🌱 J'apprends  l'optimisation des performances web
