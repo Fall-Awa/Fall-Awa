@@ -9,19 +9,17 @@ Bienvenue sur mon espace dédié au développement d'interfaces modernes et perf
 ## 🛠 Stack Technique Frontend
 
 **Langages**  
-![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?logo=javascript&logoColor=black)
-![TypeScript](https://img.shields.io/badge/-TypeScript-3178C6?logo=typescript&logoColor=white)
-
-JavaScript
-TypeScript
-HTML5
-CSS3
-Git
-GitHub
-Angular
-PowerPoint
-Design
-Technical Writing
+**Langages**  
+[![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?logo=javascript&logoColor=black)](https://developer.mozilla.org/en-US/docs/Web/JavaScript)
+[![TypeScript](https://img.shields.io/badge/-TypeScript-3178C6?logo=typescript&logoColor=white)](https://www.typescriptlang.org)
+[![HTML5](https://img.shields.io/badge/-HTML5-E34F26?logo=html5&logoColor=white)](https://developer.mozilla.org/en-US/docs/Web/HTML)
+[![CSS3](https://img.shields.io/badge/-CSS3-1572B6?logo=css3&logoColor=white)](https://developer.mozilla.org/en-US/docs/Web/CSS)
+[![Git](https://img.shields.io/badge/-Git-F05032?logo=git&logoColor=white)](https://git-scm.com)
+[![GitHub](https://img.shields.io/badge/-GitHub-181717?logo=github&logoColor=white)](https://github.com)
+[![Angular](https://img.shields.io/badge/-Angular-DD0031?logo=angular&logoColor=white)](https://angular.io)
+[![PowerPoint](https://img.shields.io/badge/-PowerPoint-B7472A?logo=microsoft-powerpoint&logoColor=white)](https://www.microsoft.com/powerpoint)
+[![Design](https://img.shields.io/badge/-Design-FF6F61?logo=adobe&logoColor=white)](https://www.adobe.com/creativecloud.html)
+[![Technical Writing](https://img.shields.io/badge/-Technical%20Writing-0076D6?logo=book&logoColor=white)](https://www.writethedocs.org)
 
 **Frontend**  
 ![React](https://img.shields.io/badge/-React-61DAFB?logo=react&logoColor=black)
