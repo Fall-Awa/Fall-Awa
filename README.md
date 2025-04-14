@@ -42,12 +42,12 @@ Bienvenue sur mon espace dédié au développement d'interfaces modernes et perf
 
 ## 🎯 Projets Frontend
 
-### [E-commerce Moderne](https://lien-projet.com)
-> Plateforme React/Next.js avec système de panier et animations fluides  
-✨ **Features** :  
-- Optimisation Core Web Vitals (LCP < 1.5s)  
-- Design System personnalisé avec Storybook  
-- Intégration Stripe & Animations GSAP
+### [Business Banking](https://lien-projet.com)  
+> **Hub financier unifié pour commerçants mauritaniens**  
+✨ **Fonctionnalités clés** :  
+- Intégration multi-portefeuilles (Sedad/BimBank/ECash)  
+- Gestion transactionnelle centralisée (paiements/remboursements/retraits)  
+- Génération de codes QR et suivi budgétaire simplifié  
 
 ### [Dashboard Analytics](https://lien-projet.com)
 > Visualisation de données en temps réel avec Vue 3 et D3.js  
