@@ -8,8 +8,6 @@ Bienvenue sur mon espace dédié au développement d'interfaces modernes et perf
 
 ## 🛠 Stack Technique Frontend
 
-## 🛠 Stack Technique
-
 **Langages**  
 ![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?logo=javascript&logoColor=black)
 ![TypeScript](https://img.shields.io/badge/-TypeScript-3178C6?logo=typescript&logoColor=white)
@@ -49,13 +47,16 @@ Bienvenue sur mon espace dédié au développement d'interfaces modernes et perf
 - Gestion transactionnelle centralisée (paiements/remboursements/retraits)  
 - Génération de codes QR et suivi budgétaire simplifié  
 
-### [Dashboard Analytics](https://lien-projet.com)
-> Visualisation de données en temps réel avec Vue 3 et D3.js  
-📊 **Stack** :  
-- Vue 3 Composition API  
-- Charts interactifs D3.js  
-- Dark/light mode personnalisable
+### [SKincare E-Commerce](https://lien-projet.com)  
+![React](https://img.shields.io/badge/-React-61DAFB?logo=react&logoColor=black) 
+![WhatsApp](https://img.shields.io/badge/-WhatsApp-25D366?logo=whatsapp&logoColor=white) 
+![Responsive](https://img.shields.io/badge/-Responsive-3DDC84?logo=web-components&logoColor=white)
 
+> Plateforme connectée pour démocratiser les soins visuels  
+✨ **Flow utilisateur** :  
+1. Sélection des produits → Panier contextuel  
+2. Génération automatique du message WhatsApp  
+3. Validation finale via discussion directe avec le vendeur  
 ---
 
 ## 📈 Mes Statistiques Frontend
