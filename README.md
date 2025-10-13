@@ -8,8 +8,8 @@
 
 
 ### 🌐 Technologies Frontend
-[![HTML](https://img.shields.io/badge/HTML5-Intermédiaire-E34F26?logo=html5)](https://developer.mozilla.org/fr/docs/Web/HTML)
-[![CSS](https://img.shields.io/badge/CSS3-Intermédiaire-1572B6?logo=css3)](https://developer.mozilla.org/fr/docs/Web/CSS)
+[![HTML](https://img.shields.io/badge/HTML5-Avancé-E34F26?logo=html5)](https://developer.mozilla.org/fr/docs/Web/HTML)
+[![CSS](https://img.shields.io/badge/CSS3-Avancé-1572B6?logo=css3)](https://developer.mozilla.org/fr/docs/Web/CSS)
 [![JavaScript](https://img.shields.io/badge/JavaScript-Intermédiaire-F7DF1E?logo=javascript)](https://developer.mozilla.org/fr/docs/Web/JavaScript)
 [![Angular](https://img.shields.io/badge/Angular-Intermediaire-DD0031?logo=angular)](https://angular.io/)
 
