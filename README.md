@@ -16,8 +16,8 @@
 ![React](https://img.shields.io/badge/-React-61DAFB?logo=react&logoColor=black)
 ![Redux](https://img.shields.io/badge/-Redux-764ABC?logo=redux&logoColor=white)
 ![Vue.js](https://img.shields.io/badge/Vue.js-Intermédiaire-4FC08D?logo=vuedotjs&logoColor=white)
-[![Next.js](https://img.shields.io/badge/Next.js-Intermédiaire-000000?logo=nextdotjs&logoColor=white)](https://nextjs.org/)
-[![Remix](https://img.shields.io/badge/Remix-Intermédiaire-000000?logo=remix&logoColor=white)](https://remix.run/)
+[![Next.js](https://img.shields.io/badge/Next.js-Intermédiaire-000000?logo=nextdotjs&logoColor=black)](https://nextjs.org/)
+[![Remix](https://img.shields.io/badge/Remix-Intermédiaire-000000?logo=remix&logoColor=black)](https://remix.run/)
 
 
 
