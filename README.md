@@ -1,10 +1,11 @@
-# Bonjour, je suis Fall-Awa 👋
+# Hello, I’m Fall-Awa 👋
 
-🎨**Développeur Frontend Créatif** | ✨ Créateur d'UI Dynamiques | 🚀 À la Découverte des Bonnes Pratiques
+🎨 **Creative Frontend Developer** | ✨ Maker of Dynamic UIs | 🚀 Exploring Best Practices
 
 
 
-## 📈 Mes Statistiques Frontend
+
+## 📈 My Frontend Statistics
 
 
 ### 🌐 Technologies Frontend
@@ -24,7 +25,7 @@
 
 
 
-### 📦 Outils & Plateformes**  
+### 📦 Tools & Platforms 
 [![Git](https://img.shields.io/badge/-Git-F05032?logo=git&logoColor=white)](https://git-scm.com)
 [![GitHub](https://img.shields.io/badge/-GitHub-181717?logo=github&logoColor=white)](https://github.com)
 
@@ -45,6 +46,9 @@
 
 ---
 
-## 💡 En ce moment...
-- 🔭 Je travaille sur une librairie UI open source en React
-- 🌱 J'apprends  l'optimisation des performances web
+## 💡 What I'm currently working on...
+- 🔭 I'm working on an open-source UI library in React  
+- 🌱 I'm learning web performance optimization  
+- 🎯 I'm actively practicing through Frontend Mentor challenges — it's my passion these days
+[![Frontend Mentor](https://img.shields.io/badge/Frontend_Mentor-3F54A3?logo=frontendmentor&logoColor=white)](https://www.frontendmentor.io)
+
