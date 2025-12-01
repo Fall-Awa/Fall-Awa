@@ -35,7 +35,7 @@
 ✨ ![Framer Motion](https://img.shields.io/badge/-Framer_Motion-0055FF?logo=framer&logoColor=white) 
 
 🧱 ![shadcn UI](https://img.shields.io/badge/-shadcn_UI-333333?logo=shadcn&logoColor=white)  
-![Lucide Icons](https://img.shields.io/badge/-Lucide_Icons-444444?logo=lucide&logoColor=white)
+![Lucide Icons](https://img.shields.io/badge/-Lucide_Icons-000000?logo=lucide&logoColor=red)
 
 
 
